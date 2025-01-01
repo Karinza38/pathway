@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <a href="https://pathway.com/">
     <img src="https://pathway.com/logo-light.svg"/>
   </a>
